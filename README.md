@@ -130,7 +130,7 @@
 <br/>
 <img src="./ReadMeImg/Scan.jpg" width='11%'><br/>
 
-## **김진명** [BE / Deveops]
+## **김진명** [BE / DevOps]
 
 #### 환경설정
 
@@ -178,7 +178,7 @@
 <br/>
 <img src="./ReadMeImg/cho.jpg" width='11.5%'> <br/>
 
-## **조현호** [Deveops / Fe]
+## **조현호** [DevOps / Fe]
 
 [Deployment]
 
