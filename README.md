@@ -123,8 +123,6 @@
 > - openCV -> face-api.js migration
 > - Spring Boot를 사용해 백엔드 앨범 관리 API 구현 ( 녹화본 저장, 녹화본 조회)
 > - 녹화본 DB 관리
-> - nginx proxy pass 로컬-서버 연결
-> - linux - window 간 파일 전송
 
 <br/>
 <br/>
@@ -134,7 +132,6 @@
 
 #### Infra
 
-> - NGINX 서버 설정 및 관리
 > - Docker 기반 프론트/백엔드 배포 및 관리
 > - SockJS 연결 및 STOMP 프로토콜 설정 및 관리
 > - JWT 기반 스프링 시큐리티 인증/인가 환경 구축
@@ -183,6 +180,7 @@
 [Infra]
 
 > - ec2 서버 환경 설정
+>   - NGINX 서버 설정 및 관리
 >   - SSL 인증 및 HTTPS 리버스 프록시
 >   - OpenVidu CE 플랫폼 설치
 
