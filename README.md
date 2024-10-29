@@ -123,10 +123,10 @@
 > - openCV -> face-api.js migration
 > - Spring Boot를 사용해 백엔드 앨범 관리 API 구현 ( 녹화본 저장, 녹화본 조회)
 > - 녹화본 DB 관리
-
 <br/>
 <br/>
 <img src="./ReadMeImg/Scan.jpg" width='11%'><br/>
+
 
 ## **김진명** [BE / DevOps]
 
@@ -192,7 +192,6 @@
 >   - 친구 추가, 초대 기능 구현
 >   - 북놀이터(멀티플레이) 서비스 구현
 > - 기타 REST API 활용한 백서버와 상호작용 로직 구현
-
 <br/>
 <br/>
 <img src="./ReadMeImg/1.jpg" width='11.8%'> <br/>
