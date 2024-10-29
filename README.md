@@ -123,18 +123,15 @@
 > - openCV -> face-api.js migration
 > - Spring Boot를 사용해 백엔드 앨범 관리 API 구현 ( 녹화본 저장, 녹화본 조회)
 > - 녹화본 DB 관리
-> - nginx proxy pass 로컬-서버 연결
-> - linux - window 간 파일 전송
-
 <br/>
 <br/>
 <img src="./ReadMeImg/Scan.jpg" width='11%'><br/>
 
-## **김진명** [BE / Deveops]
 
-#### 환경설정
+## **김진명** [BE / DevOps]
 
-> - NGINX 서버 설정 및 관리
+#### Infra
+
 > - Docker 기반 프론트/백엔드 배포 및 관리
 > - SockJS 연결 및 STOMP 프로토콜 설정 및 관리
 > - JWT 기반 스프링 시큐리티 인증/인가 환경 구축
@@ -178,34 +175,28 @@
 <br/>
 <img src="./ReadMeImg/cho.jpg" width='11.5%'> <br/>
 
-## **조현호** [Deveops / Fe]
+## **조현호** [Infra / FE]
 
-[Deployment]
+[Infra]
 
-> - ec2 서버 환경 세팅
->   - 기초 설정 및 패키지 설치 및 관리
->   - SSL 인증 (letsencrypt, nginx-certbot)
+> - ec2 서버 환경 설정
+>   - NGINX 서버 설정 및 관리
+>   - SSL 인증 및 HTTPS 리버스 프록시
 >   - OpenVidu CE 플랫폼 설치
->     - 환경 변수 관리
->     - https 도메인 연결 설정
 
 [FrontEnd]
 
 > - Front-End 팀장
-> - 중앙 상태 저장소 구현 및 관리 (zustand 활용)
-> - Socket 연결 및 stomp 프로토콜 사용한 다 대 다 실시간 상호작용 기능 및 UI 구현 (Socket JS)
->   - 친구 추가
->   - 친구 초대
->   - 북놀이터(멀티플레이) 서비스
-> - OpenVIdu 라이브러리를 활용한 화상 서비스 기능 및 UI 구현
->   - 북놀이터(멀티플레이) 서비스
+> - 중앙 상태 저장소 생성 및 데이터 관리 (zustand 활용)
+> - OpenVidu 라이브러리와 WebSocket을 활용한 화상 서비스 기능 및 UI 구현
+>   - 친구 추가, 초대 기능 구현
+>   - 북놀이터(멀티플레이) 서비스 구현
 > - 기타 REST API 활용한 백서버와 상호작용 로직 구현
-
 <br/>
 <br/>
 <img src="./ReadMeImg/1.jpg" width='11.8%'> <br/>
 
-## **심우석** [FrontEnd]
+## **심우석** [FE]
 
 > - 스크럼 마스터 <br>
 > - UI / UX 관리 <br>
